@@ -35,12 +35,16 @@ Screener.in
 
 ## Project Structure
 
-company-financial-growth-dashboard/
+Reliance-5-Year-Financial-Analysis/
 │
-├── revenue_growth.py
-├── requirements.txt
+├── data/
+│   └── reliance_financial_data.csv
+│
+├── screenshots/
+│
 ├── README.md
-└── screenshots/
+├── requirements.txt
+└── revenue_growth.py
 
 ## Screenshots
 
